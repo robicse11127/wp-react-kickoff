@@ -1,5 +1,6 @@
 import React from 'react';
 import Settings from './components/Settings';
+
 function App() {
     return(
         <React.Fragment>
@@ -7,5 +8,4 @@ function App() {
         </React.Fragment>
     )
 }
-
 export default App;
